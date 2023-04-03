@@ -22,5 +22,15 @@
 
 
 ### The new transmitter and sensor were installed by the following Chemical Engineering Students:
-*Rebecca Breland
-*Ella Dorfmueller
+* Rebecca Breland
+* Ella Dorfmueller
+* Autumn Asp
+* Kaitlynn Farno
+* Bob Flesher
+* Emma Goodman
+* Brian Huyge
+* Nathan King
+* Lydia Lopez
+* George Ritter
+* Emily Rose
+* Luca Schneider
