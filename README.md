@@ -17,5 +17,10 @@
 | Conductivity | 0.10-200 |$\frac{\mu S}{cm}$|
 
 ## *The Process In Pictures*
+![Work on EtherNet Cables](https://github.com/henthornlab/CIT150-02/blob/main/cit150-02-install-4.jpeg)
+![Installation of the Probe](https://github.com/henthornlab/CIT150-02/blob/main/cit150-02-install-6.jpeg)
 
 
+### The new transmitter and sensor were installed by the following Chemical Engineering Students:
+*Rebecca Breland
+*Ella Dorfmueller
