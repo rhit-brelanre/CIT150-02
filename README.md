@@ -1,3 +1,18 @@
-# CIT150-02
+![Rose-Hulman Logo](https://github.com/rhit-brelanre/CIT150-02/blob/main/Rose%20Logo.png)
 
-## ![Rose-Hulman Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARose%25E2%2580%2593Hulman_Institute_of_Technology_wordmark.svg&psig=AOvVaw1AjxIe_LLjgeR79Z3n_ZvZ&ust=1680617897287000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMj_wtjzjf4CFQAAAAAdAAAAABAE) ##
+# CIT150-02 Installation Process
+
+### A brand new conductivity transmitter and indicator were added to the Reverse Osmosis Unit in the High Bay Labrotory. This will take measurements on the permeate stream and will eventually replace the conductivity sensor already on the line.
+
+## Information about installed products:
+|  | Manufacturer | Model|
+| ----------- | ----------- |--- |
+| __Sensor__ | Endress+Hauser | CLS15D |
+| __Transmitter__ | Endress+Hauser|CM444|
+
+
+## Senor Range:
+| Process Variable | Range | Units|
+| ----------- | ----------- |--- |
+| Conductivity | 0.10-200 |$\frac{\mu S}{cm}$|
+
