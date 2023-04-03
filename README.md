@@ -21,7 +21,7 @@
 ![Installation of the Probe](https://github.com/henthornlab/CIT150-02/blob/main/cit150-02-install-6.jpeg)
 
 
-### The new transmitter and sensor were installed by the following Chemical Engineering Students:
+### The new transmitter and sensor were installed by the following Chemical Engineering Students on March $20^{th}$ and $23^{rd}$ $2023$:
 * Rebecca Breland
 * Ella Dorfmueller
 * Autumn Asp
